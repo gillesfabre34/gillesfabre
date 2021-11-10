@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="216c58cf-7e2e-4220-8263-05d68ead5f15" name="ovh" url="http://ftp.cluster021.hosting.ovh.net">
+        <fileTransfer host="ftp.cluster021.hosting.ovh.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
